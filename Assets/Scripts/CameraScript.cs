@@ -4,6 +4,7 @@ using UnityEngine;
 //This Script is for moving the camera around.
 public class CameraScript : MonoBehaviour
 {
+    //Camera Script is for moving the Camera around.
     public float mouseSensitivity;
     public bool invertMouse;
     public bool autoLockCursor;
