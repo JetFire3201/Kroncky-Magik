@@ -1,0 +1,8 @@
+Matthew
+-Camera Script is being tweaked
+
+Michael
+-Making attack script and particles
+
+Tony
+-Generating Terrain
