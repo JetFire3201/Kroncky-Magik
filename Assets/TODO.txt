@@ -1,5 +1,6 @@
 Matthew
--Camera Script is being tweaked
+-Camera Script is being tweaked.
+-Movement is being tweaked
 
 Michael
 -Making attack script and particles
